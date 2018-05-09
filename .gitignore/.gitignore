@@ -33,7 +33,7 @@ local.properties
 
 # node.js
 #
-node_modules/
+node_modules/*
 react-native-packager-cache-lGVuqgELuHdhDHaX5DzKCQQ0FHs=/
 npm-debug.log
 yarn-error.log
